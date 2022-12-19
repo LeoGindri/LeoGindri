@@ -1,6 +1,6 @@
 <h1 align="center">Olá, seja bem vindo ao meu perfil 😜</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofeitosa97&color=red" alt"Profile Views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoGindri&color=red" alt"Profile Views"/> </p>
  •👋 Meu nome é Leonardo Gindri, estudo curso de desenvolvedor FullStack na Kenzie Academy e sou graduando de ADS na Uniasselvi.
  <h1 align="center">✨ Curiosidades sobre mim: </h1>
 <div dir="auto">
