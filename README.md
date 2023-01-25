@@ -23,11 +23,9 @@
 <br>
 <br>
 <br>
-<div align="center" >
-  <a href="https://github.com/LeoGindri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGindri&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGindri&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGindri&show_icons=true&locale=en&layout=compact" alt="LeoGindri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoGindri&show_icons=true&locale=en" alt="LeoGindri" /></p>
 <br>
 <br>
 
