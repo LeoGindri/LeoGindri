@@ -26,6 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGindri&show_icons=true&locale=en&layout=compact" alt="LeoGindri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoGindri&show_icons=true&locale=en" alt="LeoGindri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoGindri&" alt="LeoGindri" /></p>
 <br>
 <br>
 
