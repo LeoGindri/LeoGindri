@@ -1,15 +1,29 @@
-<h1 align="center">Olá, seja bem vindo ao meu perfil 😜</h1>
+<h1 align="center">Hi 👋, I'm  Leonardo Gindri</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoGindri&color=red" alt"Profile Views"/> </p>
- •👋 Meu nome é Leonardo Gindri, estudo curso de desenvolvedor FullStack na Kenzie Academy e sou graduando de ADS na Uniasselvi.
- <h1 align="center">✨ Curiosidades sobre mim: </h1>
+ 	
+ 	- 🔭 I am currently looking for a web development job.
+
+	- 🌱 I’m currently learning **Python, MongoDB, AWS**
+
+	- 👨‍💻 All of my projects are available at [https://github.com/LeoGindri](https://github.com/LeoGindri)
+
+	- 💬 Ask me about **Web Development**
+
+	- 📫 How to reach me **leo.gindri@outlook.com**
+
+	- 📄 Know about my experiences [https://www.linkedin.com/in/leonardogindri/](https://www.linkedin.com/in/leonardogindri/)
+	
+ <h1 align="center">✨ About me: </h1>
 <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" width="400px" style="max-width: 100%;"></a>
     <div align="left" dir="auto"><br><br><br>
-	<p dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">🕹</g-emoji> Sou fã de <strong>MMORPG</strong>.</p>
-        <p dir="auto"><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🔪</g-emoji> Gosto muito de <strong>Cozinhar</strong></p>
-        <p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">⚽</g-emoji> Sou <strong> Tibiano raiz </strong>  </p><p dir="auto">
-        </p><p dir="auto"><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">📽</g-emoji> Sou expert em <strong>Harry Potter e Senhor dos Aneis.</strong></p>
+	<p dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">🕹</g-emoji>  <strong>
+MMORPG fan</strong>.</p>
+        <p dir="auto"><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🔪</g-emoji> I love  <strong>cooking</strong></p>
+        <p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">⚽</g-emoji> <strong> Games lover </strong>  </p><p dir="auto">
+        </p><p dir="auto"><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">📽</g-emoji> 
+Expert in <strong>Harry Potter and Lord of the Rings.</strong></p>
         <p align="left" dir="auto">
 	<a href="https://www.linkedin.com/in/leonardogindri/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -24,7 +38,6 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGindri&show_icons=true&locale=en&layout=compact" alt="LeoGindri" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoGindri&show_icons=true&locale=en" alt="LeoGindri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoGindri&" alt="LeoGindri" /></p>
