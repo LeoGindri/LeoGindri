@@ -2,17 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoGindri&color=red" alt"Profile Views"/> </p>
  	
- 	- 🔭 I am currently looking for a web development job.
+- 🔭 I am currently looking for a web development job.
 
-	- 🌱 I’m currently learning **Python, MongoDB, AWS**
+- 🌱 I’m currently learning **Python, MongoDB, AWS**
 
-	- 👨‍💻 All of my projects are available at [https://github.com/LeoGindri](https://github.com/LeoGindri)
+- 👨‍💻 All of my projects are available at [https://github.com/LeoGindri](https://github.com/LeoGindri)
 
-	- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development**
 
-	- 📫 How to reach me **leo.gindri@outlook.com**
+- 📫 How to reach me **leo.gindri@outlook.com**
 
-	- 📄 Know about my experiences [https://www.linkedin.com/in/leonardogindri/](https://www.linkedin.com/in/leonardogindri/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/leonardogindri/](https://www.linkedin.com/in/leonardogindri/)
 	
  <h1 align="center">✨ About me: </h1>
 <div dir="auto">
