@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoGindri&color=red" alt"Profile Views"/> </p>
  	
-- 🔭 I am currently looking for a web development job.
+- 🔭 I am currently working on Endeken.
 
 - 🌱 I’m currently learning **Python, MongoDB, AWS**
 
